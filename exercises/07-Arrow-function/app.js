@@ -1,4 +1,4 @@
-function multy(a,b){
+let multy = ( a,b) =>{
     return a*b;
 }
 
